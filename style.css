@@ -472,7 +472,7 @@ iframe {
            flex-direction: column;
       }
       article,
-      aside {
+      a href {
            width: 100px;
       }
 
