@@ -89,7 +89,7 @@ img {
       background-repeat: no-repeat;
 }
 #home {
-      background-image: url(https://github.com/36noegrass/harumemary/blob/main/2.jpg)
+      background-image: url(https://github.com/36noegrass/harumemary/blob/main/2.jpg?raw=true);
 }
 #home .page-title {
       text-transform: none;
