@@ -472,7 +472,7 @@ iframe {
            flex-direction: column;
       }
       article,
-      a href {
+      aside {
            width: fit-content;
       }
 
@@ -480,7 +480,7 @@ iframe {
            margin-top: 30px;
       }
        {
-      .a href {
+      .aside {
            margin-top: 60px;
       }
       .NewsListItem {
