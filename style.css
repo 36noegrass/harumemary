@@ -90,6 +90,8 @@ img {
 }
 #home {
       background-image: url(https://github.com/36noegrass/harumemary/blob/main/2.jpg?raw=true);
+      min-height: 100vh;
+      text-align: center;
 }
 #home .page-title {
       text-transform: none;
