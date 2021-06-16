@@ -6,8 +6,8 @@ html　{
      fonts-size: 100%;
 }
 body {
-     font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
-  line-height: 1.7;
+     font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;     
+     line-height: 1.7;
      color: #111120;
      font-size: 1.25rem;
 }
@@ -340,6 +340,7 @@ footer p {
 ------------------------------------ */
 .contact-contents {
      text-align: center;
+      margin: 0px 0;
 }
 #contact {
      background-image: url(https://github.com/36noegrass/harumemary/blob/main/contact-bg.jpg?raw=true);
