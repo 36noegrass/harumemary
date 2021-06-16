@@ -338,9 +338,12 @@ footer p {
 
 /* CONTACT
 ------------------------------------ */
+.page-title {
+     text-align: center;
+     margin: 0 0%;
+}
 .contact-contents {
      text-align: center;
-      margin: 0px 0;
 }
 #contact {
      background-image: url(https://github.com/36noegrass/harumemary/blob/main/contact-bg.jpg?raw=true);
