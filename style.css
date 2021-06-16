@@ -394,6 +394,7 @@ footer p {
 .fa-instagram-square {
        color: #111120;
        font-size: 7rem;
+       margin: 0 35%;
 }
 .fa-instagram-square:hover {
        color: #c5b2d6;
@@ -401,6 +402,7 @@ footer p {
 .fa-line {
        color: #111120;
        font-size: 7rem;
+       margin: 0 35%;
 }
 .fa-line:hover {
        color: #c5b2d6;
