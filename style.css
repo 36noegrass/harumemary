@@ -394,6 +394,7 @@ footer p {
 .fa-instagram-square {
        color: #111120;
        font-size: 7rem;
+       text-align: center;
 }
 .fa-instagram-square:hover {
        color: #c5b2d6;
