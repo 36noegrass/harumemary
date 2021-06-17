@@ -503,19 +503,11 @@ iframe {
       .contact {
            flex-direction: column;
       }
-      ＃contact .page-title {
+      .contact .page-title {
             margin-top: 40px;
       }
 
       /*  店舗情報・地図　/　SNS  */
-      .location {
-             flex-direction: column;
-             align-items: center;
-      }
-      .sns {
-             flex-direction: column;
-             align-items: center;
-      }
       .locatiion-info,
       .location-map,
       .sns-box1 {
