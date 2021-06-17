@@ -114,11 +114,11 @@ img {
 .newsInfoText {
       display: flex;
       justify-content: space-between;
-      margin: 0 5% 2% 5%;
+      margin: 0 50% 2% 50%;
 }
 .newsInfoText article {
   　   text-align: center;
-      margin: 0 0% 5% 0%;
+      margin: 0 0 0 0;
       padding: 10px 10px;
       text-align: left;
       font-size: 1.3rem;
@@ -179,7 +179,7 @@ img {
 }
 
 .newsInfoText aside {
-      margin: 0 0 0 5%;
+      margin: 0 0 0 0;
       padding: 10px 10px;
       text-align: left;
       font-size: 1rem;
