@@ -448,6 +448,9 @@ iframe {
       }
 
       /*  HOME  */
+      .home {
+           flex-direction: column;
+      }
       .home-content {
            margin-top: 20%;
       }
