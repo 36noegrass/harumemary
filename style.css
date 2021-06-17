@@ -114,7 +114,8 @@ img {
 .newsInfoText {
       display: flex;
       justify-content: space-between;
-      margin: 0 10% 2% 10%%;
+      grid-template-columns: 200px 200px;
+      gap: 10px
 }
 .newsInfoText article {
   　   text-align: center;
