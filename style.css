@@ -514,19 +514,15 @@ iframe {
       }
       .locatiion-info,
       .location-map,
-      .sns-box1 {
-           width: 100%;
-      }
-      .sns-box2 {
+      .sns-box1,
+      .sns-box2, {
            width: 100%;
       }
       .sns-box1 {
            margin-bottom: 30px;
-           padding-bottom: 10px;
       }
       .sns-box2 {
            margin-bottom: 30px;
-           padding-bottom: 10px;
       }
 
       /*    */
