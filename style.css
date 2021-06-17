@@ -106,21 +106,18 @@ img {
 .news-content h2{
      text-align: center;
      margin: 0% 0 0;
-
 }
 .news-content p {
      text-align: center;
      margin: 0% 0;
 }
-
 .newsInfoText {
       display: flex;
       justify-content: space-between;
-      gap: 10px;
 }
 .newsInfoText article {
-  　  text-align: center;
-      margin: 0 5% 0 0%;
+  　   text-align: center;
+      margin: 0 0% 5% 0%;
       padding: 10px 10px;
       text-align: left;
       font-size: 1.3rem;
