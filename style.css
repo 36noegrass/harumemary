@@ -194,12 +194,12 @@ img {
       font-size: 1.3rem;
 }
 .newsInfoText img {
-      width: 50%;
-      height: 30%;
-      margin: 0 10%;
+      width: 70%;
+      height: 50%;
+      
       align-content: stretch;
       object-fit: cover;
-      border-radius: 20% 20% 20% 20%;
+      
 }
 
 
