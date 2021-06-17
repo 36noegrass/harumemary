@@ -462,7 +462,7 @@ iframe {
       }
       article,
       aside {
-           width: fit-content;
+           width: 100%;
       }
 
       #news .page-title {
