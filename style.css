@@ -197,8 +197,8 @@ img {
       font-size: 1.3rem;
 }
 .aside img {
-      width: 80%;
-      height: 60%;
+      width: 80px;
+      height: 60px;
       object-fit: cover;      
 }
 
