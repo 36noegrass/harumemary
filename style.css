@@ -114,6 +114,7 @@ img {
 .newsInfoText {
       display: flex;
       justify-content: space-between;
+      margin: 5%;
 }
 .newsInfoText article {
   　   text-align: center;
