@@ -508,8 +508,11 @@ iframe {
       }
 
       /*  店舗情報・地図　/　SNS  */
-      .location .wrapper,
-      .sns .wrapper {
+      .location {
+             flex-direction: column;
+             align-items: center;
+      }
+      .sns {
              flex-direction: column;
              align-items: center;
       }
