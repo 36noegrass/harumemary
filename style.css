@@ -196,6 +196,10 @@ img {
 .newsInfoText img {
       width: 50%;
       height: 30%;
+      margin: 0 10%;
+      align-content: stretch;
+      object-fit: cover;
+      border-radius: 20% 20% 20% 20%;
 }
 
 
