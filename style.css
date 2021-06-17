@@ -119,8 +119,8 @@ img {
       padding: 0 5%
 }
 .newsInfoText article {
-  　   text-align: center;     
-      padding: 10px 10px;
+  　    width: 200px;
+      text-align: center;     
       text-align: left;
       font-size: 1.3rem;
       border: 1px solid #111120;
@@ -180,7 +180,7 @@ img {
 }
 
 .newsInfoText aside {
-      padding: 10px 10px;
+      width: 200px;
       text-align: left;
       font-size: 1rem;
       border: 1px solid #111120;
