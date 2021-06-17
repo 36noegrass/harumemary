@@ -115,8 +115,8 @@ img {
       display: flex;
       justify-content: space-between;
       grid-template-columns: 1fr 1fr;
-      grid-gap: 10px
-      padding: 0 5%
+      grid-gap: 10px;
+      padding: 0 5%;
 }
 .newsInfoText article {
   　    width: 200px;
