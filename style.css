@@ -452,7 +452,7 @@ iframe {
            flex-direction: column;
       }
       .home-content {
-           margin-top: 10%;
+           margin-top: 5%;
       }
       .page-header {
            flex-direction: column;
@@ -460,7 +460,7 @@ iframe {
       }
      .home-contents p {
            font-size: 1rem;
-           margin: 30px 20x 30px;
+           margin: 10px 10x 10px;
       }
      
       /* NEWS */
