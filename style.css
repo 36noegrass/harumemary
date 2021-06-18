@@ -468,7 +468,7 @@ iframe {
       }
      
       /* NEWS */
-     #news news-content {
+     #news .news-content {
            flex-direction: column;
            align-items: center;
      }
@@ -480,7 +480,7 @@ iframe {
            align-items: center;
       }
       .article,
-      aside {
+      .aside {
            width: 100%;
       }
       #news .page-title {
