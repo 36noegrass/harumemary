@@ -468,14 +468,10 @@ iframe {
       }
      
       /* NEWS */
-     #news .news-content {
-           flex-direction: column;
-           align-items: center;
-     }
      .news-content p {
            font-size: 1rem;
      }
-     .newsInfoText {
+     #news .newsInfoText {
            flex-direction: column;
            align-items: center;
       }
