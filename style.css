@@ -512,7 +512,7 @@ iframe {
       }
      .sns-box1,
      .sns-box2 {
-           width: 100%;
+           width: 80%;
      }
       .contact .page-title {
             margin-top: 40px;
@@ -524,10 +524,9 @@ iframe {
            flex-direction: column;
       }
       .locatiion-info,
-      .location-map,
-      .sns-box1,
-      .sns-box2, {
+      .location-map {
            width: 100%;
+           padding: 10px 10px 10px 10px;
       }
       .sns-box1 {
            margin-bottom: 30px;
