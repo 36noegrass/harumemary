@@ -507,8 +507,13 @@ iframe {
 
       /* 　CONTACT　 */
       .contact {
-           flex-direction: column;      
+           flex-direction: column;
+           align-items: center;
       }
+     .sns-box1,
+     .sns-box2 {
+           width: 100%;
+     }
       .contact .page-title {
             margin-top: 40px;
       }
