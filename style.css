@@ -115,7 +115,7 @@ img {
       display: grid;
       justify-content: space-between;
       grid-template-columns: 1fr 1fr;
-      gap: 10px;
+      gap: 100px;
       padding: 0 10% 2% 10%;
 }
 .newsInfoText article {
