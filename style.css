@@ -115,7 +115,8 @@ img {
       display: grid;
       justify-content: space-between;
       grid-template-columns: 1fr 1fr;
-      gap: 100px;
+      gap: 50px;
+      padding: 0px 30px 0 30px;
 }
 .newsInfoText article {
       object-fit: cover;
