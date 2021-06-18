@@ -269,7 +269,7 @@ footer p {
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: 10px;
     grid-template-rows: 480px 480px;
-    margin: 30px 50px;
+    margin: 50px 50px 30px 50px;
 }
 .item2 {
     background: #80a491;
