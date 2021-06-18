@@ -477,13 +477,10 @@ iframe {
       }
       .article,
       .aside {
-           width: 100%;
+           width: 400%;
       }
       #News .page-title {
            margin-top: 30px;
-      }
-      .aside {
-           margin: 10% 0 4% 0;
       }
       .NewsListItem {
            margin-bottom: 30px;
