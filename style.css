@@ -468,7 +468,11 @@ iframe {
       }
      
       /* NEWS */
-      .newsInfoText {
+     .news-content {
+           flex-direction: column;
+           align-items: center;
+     }
+     .newsInfoText {
            flex-direction: column;
       }
       article,
