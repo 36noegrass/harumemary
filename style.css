@@ -524,7 +524,7 @@ iframe {
       #location .wrapper {
            flex-direction: column;
       }
-      .location-info p {
+      .location-info {
            width: 100%;
            margin: 10px 10px;
       }
