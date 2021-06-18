@@ -444,7 +444,7 @@ iframe {
           margin-top: 5px;
       }
       .main-nav li {
-           margin: 0 20px;
+           margin: 0 10px;
       }
 
       /*  HOME  */
@@ -460,6 +460,7 @@ iframe {
       }
      .home-contents p {
            font-size: 0.8rem;
+           margin: 0 5px;
       }
      
       /* NEWS */
