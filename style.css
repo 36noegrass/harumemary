@@ -471,7 +471,7 @@ iframe {
      .news-content p {
            font-size: 1rem;
      }
-     #news .newsInfoText {
+     #News .newsInfoText {
            flex-direction: column;
            align-items: center;
       }
@@ -479,7 +479,7 @@ iframe {
       .aside {
            width: 100%;
       }
-      #news .page-title {
+      #News .page-title {
            margin-top: 30px;
       }
       .aside {
