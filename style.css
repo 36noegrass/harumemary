@@ -471,17 +471,16 @@ iframe {
      .news-content p {
            font-size: 1rem;
      }
-     #News .newsInfoText {
+     #News .page-title {
+           margin-top: 30px;
+      }
+     .newsInfoText {
            flex-direction: column;
-           align-items: center;
       }
       .article,
       .aside {
-           width: 400%;
-      }
-      #News .page-title {
-           margin-top: 30px;
-      }
+           width: 100%;
+      }  
       .NewsListItem {
            margin-bottom: 30px;
       }
