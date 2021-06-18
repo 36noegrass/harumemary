@@ -523,7 +523,10 @@ iframe {
       #location .wrapper {
            flex-direction: column;
       }
-      .locatiion-info,
+      .location-info p {
+           width: 100%;
+           padding: 10px 10px;
+      }
       .location-map {
            width: 100%;
            padding: 10px 10px 10px 10px;
