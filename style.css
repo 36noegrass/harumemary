@@ -513,6 +513,7 @@ iframe {
      .sns-box1,
      .sns-box2 {
            width: 80%;
+           align-items: center;
      }
       .contact .page-title {
             margin-top: 40px;
@@ -525,7 +526,7 @@ iframe {
       }
       .location-info p {
            width: 100%;
-           padding: 10px 10px;
+           margin: 10px 10px;
       }
       .location-map {
            width: 100%;
