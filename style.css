@@ -316,6 +316,7 @@ footer p {
    width: 60%;
    height: 40%;
    margin: 0 10%;
+   align-content: center;
    align-content: stretch;
    object-fit: cover;
    border-radius: 20% 20% 20% 20%;
