@@ -301,6 +301,7 @@ footer p {
   height: 40%;
   width: 60%;
   align-content: stretch;
+  align-content: center;
 }
 
 /* 記事部分 */
