@@ -482,7 +482,9 @@ iframe {
       }
       .article,
       .aside {
-           width: 100%;
+           width: 80%;
+           margin-left: 10%;
+           margin-right: 10%;
       }  
       .NewsListItem {
            margin-bottom: 30px;
