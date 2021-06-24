@@ -515,7 +515,8 @@ iframe {
      .sns-box1,
      .sns-box2 {
            width: 80%;
-           align-items: center;
+           margin-left: 10%;
+           margin-right: 10%;
      }
       .contact .page-title {
             margin-top: 40px;
