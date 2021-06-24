@@ -557,5 +557,6 @@ iframe {
      .container2 {
            width: 90%;
            margin: 50% 5%;
+           gap: 10px;
      }
      
