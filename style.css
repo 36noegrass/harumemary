@@ -215,7 +215,9 @@ footer p {
 
 /*  MENU
 ---------------------------------------------- */
-
+#menu {
+     background: linear-gradient(#CBD5EE,#fff);
+}
 #menu .page-title {
       text-align: center;
       margin: 1px 0;
