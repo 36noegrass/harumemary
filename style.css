@@ -547,12 +547,8 @@ iframe {
            margin-bottom: 30px;
       }
 
-      /*    */
+      /*  menu  */
       .big-box {
            grid-column: auto;
            grid-row: auto;
       }
-          .big-box img {
-                height: auto;
-          }
-}
