@@ -537,7 +537,7 @@ iframe {
            margin: 10px 10px;
       }
       .location-map {
-           width: 100%;
+           container1
            padding: 10px 10px 10px 10px;
       }
       .sns-box1 {
@@ -552,3 +552,7 @@ iframe {
            grid-column: auto;
            grid-row: auto;
       }
+     .container1,
+      container2 {
+           width: 90%;
+     }
