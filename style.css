@@ -298,7 +298,7 @@ footer p {
      grid-row: 1/2;
 }
 .big-box post-img {
-  width: 75%;
+   width: 60%;
    height: 40%;
    margin: 0 30%;
    align-content: stretch;
@@ -562,12 +562,4 @@ iframe {
            margin: 20px;
            height: 450px;
      }
-     .post-img {
-           width: 75%;
-           height: 40%;
-           align-content: center;
-           align-content: stretch;
-           object-fit: cover;
-           border-radius: 20% 20% 20% 20%;
-     }
-     
+    
