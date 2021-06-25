@@ -474,13 +474,7 @@ iframe {
       }
      
       /* NEWS */
-     .news-content p {
-           font-size: 1rem;
-     }
-     .page-title {
-           margin-top: 30px;
-      }
-      .newsInfoText {
+     .newsInfoText {
            flex-direction: column;
       }
       article,
@@ -489,6 +483,13 @@ iframe {
            margin-left: 10%;
            margin-right: 10%;
       }  
+     .news-content p {
+           font-size: 1rem;
+     }
+     .page-title {
+           margin-top: 30px;
+      }
+      
       .NewsListItem {
            margin-bottom: 30px;
       }
