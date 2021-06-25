@@ -480,12 +480,11 @@ iframe {
      .page-title {
            margin-top: 30px;
       }
-      .newsInfoText article,
-      .newsInfoText aside {
+      .newsInfoText {
            flex-direction: column;
       }
-      .article,
-      .aside {
+      article,
+      aside {
            width: 100%;
            margin-left: 0%;
            margin-right: 0%;
