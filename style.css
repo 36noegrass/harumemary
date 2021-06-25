@@ -231,7 +231,7 @@ footer p {
       box-shadow: 0 3px #3b8a98;
       position: relative;
       display: inline-block;
-      top: 10px;
+      top: 100px;
       padding: 10px 20px;
       margin: 0px 0;
 }
@@ -242,7 +242,7 @@ footer p {
 .container1 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 500%;
+    gap: 10px;
     grid-template-rows: 480px;
     margin: 20px 50px;
 }
