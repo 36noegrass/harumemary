@@ -550,7 +550,10 @@ iframe {
       }
 
       /*  menu  */
-      .big-box {
+     .btn {
+           align-items: center;
+      }
+     .big-box {
            grid-column: auto;
            grid-row: auto;
       }
