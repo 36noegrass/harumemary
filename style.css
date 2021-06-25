@@ -131,8 +131,24 @@ img {
       color: #111120;
       background-color: #80a496;
 }
+.newsInfoText h4 {
+      text-align: center;
+      font-size: 1.3rem;
+}
 .article img {
       object-fit: cover; 
+}
+.newsInfoText aside {
+      object-fit: cover;
+      padding: 5% 5%;
+      text-align: left;
+      font-size: 1rem;
+      border: 1px solid #111120;
+      outline: 2px solid #111120;
+      outline-offset:  4px;
+      border-radius: 6px;
+      color: #111120;
+      background-color: #80a496;
 }
 .newsInfoText h3 {
       text-align: center;
@@ -181,23 +197,6 @@ img {
 .NewsListItem-Category {
       margin-left: 120px;
       color: #111120;
-}
-
-.newsInfoText aside {
-      object-fit: cover;
-      padding: 10% 10%;
-      text-align: left;
-      font-size: 1rem;
-      border: 1px solid #111120;
-      outline: 2px solid #111120;
-      outline-offset:  4px;
-      border-radius: 6px;
-      color: #111120;
-      background-color: #80a496;
-}
-.newsInfoText h4 {
-      text-align: center;
-      font-size: 1.3rem;
 }
 
 /* フッター
