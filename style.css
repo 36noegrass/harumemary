@@ -480,7 +480,7 @@ iframe {
      .page-title {
            margin-top: 30px;
       }
-      .newsInfoText {
+      .newsInfoText .wrapper {
            flex-direction: column;
       }
       article,
