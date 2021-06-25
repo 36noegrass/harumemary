@@ -483,7 +483,7 @@ iframe {
       }
      .newsInfoText {
            flex-direction: column;
-           align-items:　
+           align-items: center;
       }
       .article,
       .aside {
