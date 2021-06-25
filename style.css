@@ -131,7 +131,7 @@ img {
       color: #111120;
       background-color: #80a496;
 }
-.newsInfoText h4 {
+.newsInfoText h3 {
       text-align: center;
       font-size: 1.3rem;
 }
@@ -150,7 +150,7 @@ img {
       color: #111120;
       background-color: #80a496;
 }
-.newsInfoText h3 {
+.newsInfoText h4 {
       text-align: center;
       font-size: 1.3rem;
 }
@@ -487,9 +487,9 @@ iframe {
       }
       .article,
       .aside {
-           width: 80%;
-           margin-left: 10%;
-           margin-right: 10%;
+           width: 100%;
+           margin-left: 0%;
+           margin-right: 0%;
       }  
       .NewsListItem {
            margin-bottom: 30px;
