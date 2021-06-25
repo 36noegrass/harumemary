@@ -120,6 +120,7 @@ img {
 }
 .newsInfoText article {
       object-fit: cover;
+      padding: 10% 10%;
       text-align: center;     
       text-align: left;
       font-size: 1rem;
