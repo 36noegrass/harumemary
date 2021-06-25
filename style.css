@@ -552,8 +552,7 @@ iframe {
       /*  menu  */
      .big-box {
            grid-column: auto;
-           grid-row: auto;
-           height: 490px;
+           grid-row: auto;      
       }
      .container1,
      .container2 {
@@ -561,4 +560,6 @@ iframe {
            margin: 20px 5%;
            gap: 10px;
      }
-     
+     .container1 item1 big-box {
+           height: 500px;
+     }
