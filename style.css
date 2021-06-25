@@ -242,7 +242,7 @@ footer p {
 .container1 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 10px;
+    gap: 500%;
     grid-template-rows: 480px;
     margin: 20px 50px;
 }
