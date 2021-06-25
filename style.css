@@ -478,10 +478,10 @@ iframe {
      .news-content p {
            font-size: 1rem;
      }
-     #News .page-title {
+     .page-title {
            margin-top: 30px;
       }
-      .news-content {
+      .newsInfoText {
            flex-direction: column;
            align-items: center;
       }
