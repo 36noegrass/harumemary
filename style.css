@@ -120,7 +120,7 @@ img {
 }
 .newsInfoText article {
       object-fit: cover;
-      padding: 10% 10%;
+      padding: 5% 5%;
       text-align: center;     
       text-align: left;
       font-size: 1rem;
@@ -130,6 +130,9 @@ img {
       border-radius: 6px;
       color: #111120;
       background-color: #80a496;
+}
+.article img {
+      object-fit: cover; 
 }
 .newsInfoText h3 {
       text-align: center;
@@ -196,10 +199,6 @@ img {
       text-align: center;
       font-size: 1.3rem;
 }
-.aside img {
-      object-fit: cover; 
-}
-
 
 /* フッター
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー */
