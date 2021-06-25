@@ -536,7 +536,7 @@ iframe {
       .location-info {
            width: 100%;
            margin: 10px 10px;
-           font-size: 1rem;
+           font-size: 0.875rem;
       }
       .location-map {
            width: 90%;
