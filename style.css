@@ -474,7 +474,8 @@ iframe {
       }
      
       /* NEWS */
-     .newsInfoText {
+     .newsInfoText article,
+     .newsInfoText aside {
            flex-direction: column;
       }
       article,
